@@ -1,4 +1,4 @@
 [submodule "src/3rdparty/mapbox-gl-native"]
 	path = src/3rdparty/mapbox-gl-native
-	url = ../qtlocation-mapboxgl.git
+	url = ../mapbox-gl-native.git
 	branch = upstream/qt-staging
